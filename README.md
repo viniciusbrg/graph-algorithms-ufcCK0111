@@ -17,3 +17,7 @@ Algumas técnicas que serão introduzidas: algoritmos gulosos, programação din
 
 1. **Introduction to Algorithms**, Thomas Cormen
 2. **Teoria Computacional de grafos: os algoritmos**, Jayme Luiz Szwarcfiter
+
+# Aulas
+
+[Aula 1 (19/02) - Introdução e definições de grafos](./aula1.pdf)
