@@ -21,4 +21,7 @@ Algumas técnicas que serão introduzidas: algoritmos gulosos, programação din
 # Aulas
 
 [Aula 1 (19/02) - Introdução e definições de grafos](./aula1.pdf)
+
 [Aula 2 (28/02) - Caminho, grafos conexos, subgrafos, distancias](./aula2.pdf)
+
+[Aula 3 (04/03) - Algumas classes de grafos, árvores, florestas, algoritmo para achar centro de uma árvore](./aula3.pdf)
